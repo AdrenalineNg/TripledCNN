@@ -1,0 +1,144 @@
+\begin{thebibliography}{10}
+
+\bibitem{yang2012geographic}
+Yi~Yang and Shawn Newsam.
+\newblock Geographic image retrieval using local invariant features.
+\newblock {\em IEEE Transactions on Geoscience and Remote Sensing},
+  51(2):818--832, 2012.
+
+\bibitem{aptoula2013remote}
+Erchan Aptoula.
+\newblock Remote sensing image retrieval with global morphological texture
+  descriptors.
+\newblock {\em IEEE transactions on geoscience and remote sensing},
+  52(5):3023--3034, 2013.
+
+\bibitem{wang2012remote}
+Min Wang and Tengyi Song.
+\newblock Remote sensing image retrieval by scene semantic matching.
+\newblock {\em IEEE Transactions on Geoscience and Remote Sensing},
+  51(5):2874--2886, 2012.
+
+\bibitem{aksoy2006modeling}
+Selim Aksoy.
+\newblock Modeling of remote sensing image content using attributed relational
+  graphs.
+\newblock In {\em Joint IAPR international workshops on statistical techniques
+  in pattern recognition (SPR) and structural and syntactic pattern recognition
+  (SSPR)}, pages 475--483. Springer, 2006.
+
+\bibitem{hamilton2017inductive}
+Will Hamilton, Zhitao Ying, and Jure Leskovec.
+\newblock Inductive representation learning on large graphs.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1024--1034, 2017.
+
+\bibitem{kipf2016semi}
+Thomas~N Kipf and Max Welling.
+\newblock Semi-supervised classification with graph convolutional networks.
+\newblock {\em arXiv preprint arXiv:1609.02907}, 2016.
+
+\bibitem{atwood2016diffusion}
+James Atwood and Don Towsley.
+\newblock Diffusion-convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1993--2001, 2016.
+
+\bibitem{defferrard2016convolutional}
+Micha{\"e}l Defferrard, Xavier Bresson, and Pierre Vandergheynst.
+\newblock Convolutional neural networks on graphs with fast localized spectral
+  filtering.
+\newblock In {\em Advances in neural information processing systems}, pages
+  3844--3852, 2016.
+
+\bibitem{monti2017geometric}
+Federico Monti, Davide Boscaini, Jonathan Masci, Emanuele Rodola, Jan Svoboda,
+  and Michael~M Bronstein.
+\newblock Geometric deep learning on graphs and manifolds using mixture model
+  cnns.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 5115--5124, 2017.
+
+\bibitem{garcia2017few}
+Victor Garcia and Joan Bruna.
+\newblock Few-shot learning with graph neural networks.
+\newblock {\em arXiv preprint arXiv:1711.04043}, 2017.
+
+\bibitem{wang2018zero}
+Xiaolong Wang, Yufei Ye, and Abhinav Gupta.
+\newblock Zero-shot recognition via semantic embeddings and knowledge graphs.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 6857--6866, 2018.
+
+\bibitem{fout2017protein}
+Alex Fout, Jonathon Byrd, Basir Shariat, and Asa Ben-Hur.
+\newblock Protein interface prediction using graph convolutional networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  6530--6539, 2017.
+
+\bibitem{Hoffer2015Deep}
+Elad Hoffer and Nir Ailon.
+\newblock {\em Deep Metric Learning Using Triplet Network}.
+\newblock Springer International Publishing, 2015.
+
+\bibitem{bromley1994signature}
+Jane Bromley, Isabelle Guyon, Yann LeCun, Eduard S{\"a}ckinger, and Roopak
+  Shah.
+\newblock Signature verification using a" siamese" time delay neural network.
+\newblock In {\em Advances in neural information processing systems}, pages
+  737--744, 1994.
+
+\bibitem{chopra2005learning}
+Sumit Chopra, Raia Hadsell, and Yann LeCun.
+\newblock Learning a similarity metric discriminatively, with application to
+  face verification.
+\newblock In {\em 2005 IEEE Computer Society Conference on Computer Vision and
+  Pattern Recognition (CVPR'05)}, volume~1, pages 539--546. IEEE, 2005.
+
+\bibitem{hadsell2006dimensionality}
+Raia Hadsell, Sumit Chopra, and Yann LeCun.
+\newblock Dimensionality reduction by learning an invariant mapping.
+\newblock In {\em 2006 IEEE Computer Society Conference on Computer Vision and
+  Pattern Recognition (CVPR'06)}, volume~2, pages 1735--1742. IEEE, 2006.
+
+\bibitem{chaudhuri2016region}
+Bindita Chaudhuri, Beg{\"u}m Demir, Lorenzo Bruzzone, and Subhasis Chaudhuri.
+\newblock Region-based retrieval of remote sensing images using an unsupervised
+  graph-theoretic approach.
+\newblock {\em IEEE Geoscience and Remote Sensing Letters}, 13(7):987--991,
+  2016.
+
+\bibitem{Lowe1999Object}
+David~G. Lowe.
+\newblock Object recognition from local scale-invariant features.
+\newblock In {\em Computer Vision, 1999. The Proceedings of the Seventh IEEE
+  International Conference on}, 1999.
+
+\bibitem{Ojala2002Multiresolution}
+T.~Ojala, M.~Pietikainen, and T.~Maenpaa.
+\newblock Multiresolution gray-scale and rotation invariant texture
+  classification with local binary patterns.
+\newblock 2002.
+
+\bibitem{Heikkil2008Blur}
+Janne Heikkilä.
+\newblock Blur insensitive texture classification using local phase
+  quantization.
+\newblock In {\em International Conference on Image and Signal Processing},
+  2008.
+
+\bibitem{Petroski2017Robust}
+Felipe Petroski~Such, Shagan Sah, Miguel~Alexander Dominguez, Suhas Pillai,
+  Chao Zhang, Andrew Michael, Nathan~D. Cahill, and Raymond Ptucha.
+\newblock Robust spatial filtering with graph convolutional neural networks.
+\newblock {\em IEEE Journal of Selected Topics in Signal Processing}, pages
+  1--1, 2017.
+
+\bibitem{Chaudhuri2018Multilabel}
+Bindita Chaudhuri, Begum Demir, Subhasis Chaudhuri, and Lorenzo Bruzzone.
+\newblock Multilabel remote sensing image retrieval using a semisupervised
+  graph-theoretic method.
+\newblock {\em IEEE Transactions on Geoscience and Remote Sensing},
+  56(2):1144--1158, 2018.
+
+\end{thebibliography}

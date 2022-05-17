@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction}{1}% 
+\contentsline {section}{\numberline {2}Related work}{1}% 
+\contentsline {section}{\numberline {3}Proposed method}{3}% 
+\contentsline {subsection}{\numberline {3.1}Image segmentation}{3}% 
+\contentsline {subsection}{\numberline {3.2}Feature extraction}{4}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Shape feature}{4}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Color feature}{4}% 
+\contentsline {subsubsection}{\numberline {3.2.3}Texture features}{4}% 
+\contentsline {subsection}{\numberline {3.3}Region Adjacency Graph}{6}% 
+\contentsline {subsection}{\numberline {3.4}Graph convolution and pooling}{6}% 
+\contentsline {subsubsection}{\numberline {3.4.1}Convolution}{6}% 
+\contentsline {subsubsection}{\numberline {3.4.2}Pooling}{7}% 
+\contentsline {subsection}{\numberline {3.5}Triplet Network}{8}% 
+\contentsline {section}{\numberline {4}Result}{9}% 
+\contentsline {section}{\numberline {5}Conclusions}{11}% 
+\contentsline {section}{\numberline {6}Appendix}{14}% 
+\contentsline {section}{\numberline {7}Acknowledgment}{21}% 
